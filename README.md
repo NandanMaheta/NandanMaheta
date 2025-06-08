@@ -9,4 +9,4 @@ I'm a frontend-focused developer building performant web and mobile applications
  
 📫 Reach me at [nandzmehta99@gmail.com](mailto:nandzmehta99@gmail.com)
 
-• [LinkedIn](www.linkedin.com/in/nandan-maheta-88a469142)
+• [LinkedIn](https://www.linkedin.com/in/nandan-maheta-88a469142/)
