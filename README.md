@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @NandanMaheta
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full stack Web development
-  
+# Hi, I'm Nandan 
 
-<!---
-NandanMaheta/NandanMaheta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a frontend-focused developer building performant web and mobile applications using React.js, Next.js, and React Native.
+
+🔧 Currently working as an SDE Intern at **Levich**, contributing to real-world product development.  
+🧪 Previously built scalable UI systems and optimized performance at **Gygis** as a freelance Junior Frontend Engineer.  
+📦 Experienced in React ecosystem, TypeScript, REST APIs, modern UI libraries (Tailwind, Shadcn, Material UI), and state management tools like Zustand.  
+📱 Skilled in building responsive, accessible interfaces for web and mobile.
+ 
+📫 Reach me at [nandzmehta99@gmail.com](mailto:nandzmehta99@gmail.com)
+
+• [LinkedIn](https://linkedin.com/in/nandan-mehta)
